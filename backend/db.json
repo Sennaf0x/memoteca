@@ -1,33 +1,15 @@
 {
   "pensamentos": [
     {
-      "id": 1,
-      "conteudo": "Que bom que você veio",
-      "autoria": "Paulo T. B.",
-      "modelo": "modelo1"
-    },
-    {
-      "id": 2,
-      "conteudo": "Que bom que você não veio",
-      "autoria": "Ursula A. R.",
-      "modelo": "modelo2"
-    },
-    {
       "id": 3,
       "conteudo": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eget ligula eu lectus lobortis condimentum. Aliquam nonummy auctor massa. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Nulla at risus. Quisque purus magna, auctor et, sagittis ac, posuere eu, lectus. Nam mattis, felis ut adipiscing.",
       "autoria": "Fernanda S. S.",
       "modelo": "modelo3"
     },
     {
-      "conteudo": "Você está funcionando?",
+      "conteudo": "Amorzinho bateu o carro",
       "autoria": "Paulo T. B.",
-      "modelo": "modelo1",
-      "id": 4
-    },
-    {
-      "conteudo": "Testando o servoço de router",
-      "autoria": "Paulo T. B.",
-      "modelo": "modelo2",
+      "modelo": "modelo3",
       "id": 5
     }
   ]
